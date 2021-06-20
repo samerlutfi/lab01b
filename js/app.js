@@ -6,5 +6,5 @@ let origin = prompt(userAge +" mashallah<3 "+" where are you from?");
 console.log(origin);
 let favmus = prompt("i'm from "+ origin +" too,what's your favorite music type");
 console.log(favmus);
-alert("Nice "+userName+" i used to play some "+favmus +" songs when i where in "+ origin);
+alert("Nice "+userName+" i used to play some "+favmus +" songs when i was in "+ origin);
 
